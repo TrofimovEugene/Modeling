@@ -1,10 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5", "Lab5\Lab5.csproj", "{9BDB4442-9DFB-479A-A079-35C8183E2861}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab5", "Lab5\Lab5.csproj", "{9BDB4442-9DFB-479A-A079-35C8183E2861}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "Lab4\Lab4.csproj", "{3D449CFE-3D76-4C04-9A00-55997508FAA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab4", "Lab4\Lab4.csproj", "{3D449CFE-3D76-4C04-9A00-55997508FAA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6", "Lab6\Lab6.csproj", "{5D235A5D-CB8D-4AFA-BD91-161C7DE64E8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab6", "Lab6\Lab6.csproj", "{5D235A5D-CB8D-4AFA-BD91-161C7DE64E8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7", "Lab7\Lab7.csproj", "{3F908C7A-340B-4601-A2E6-783DDC139128}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +29,15 @@ Global
 		{5D235A5D-CB8D-4AFA-BD91-161C7DE64E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D235A5D-CB8D-4AFA-BD91-161C7DE64E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D235A5D-CB8D-4AFA-BD91-161C7DE64E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F908C7A-340B-4601-A2E6-783DDC139128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F908C7A-340B-4601-A2E6-783DDC139128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F908C7A-340B-4601-A2E6-783DDC139128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F908C7A-340B-4601-A2E6-783DDC139128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CABF3A7C-E4D9-4691-B2BB-C6090785CC29}
 	EndGlobalSection
 EndGlobal
